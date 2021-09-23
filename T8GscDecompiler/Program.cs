@@ -27,7 +27,7 @@ namespace T8GscDecompiler
                     Console.WriteLine("POUET POUET");
                     string folder = args[2];
                    
-                        files = Directory.GetFiles(@"C:\\Users\\engle\\Desktop\\Electron Fx Exporter\\Electron Fx Exporter\\Electron Fx Exporter\\bin\\Debug\\exported_files\\zm_escape\\", "*.gscc");
+                        files = Directory.GetFiles(@"C:\\Users\\dev\\Desktop\\Electron Fx Exporter\\Electron Fx Exporter\\Electron Fx Exporter\\bin\\Debug\\exported_files\\zm_escape\\", "*.gscc");
                        /* foreach(string f in files )
                         {
                             Console.WriteLine(f);
