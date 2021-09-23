@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T8GscDecompiler", "T8GscDecompiler\T8GscDecompiler.csproj", "{C25B26A9-4CED-49F0-B3B2-030A7FD5806A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C25B26A9-4CED-49F0-B3B2-030A7FD5806A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C25B26A9-4CED-49F0-B3B2-030A7FD5806A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C25B26A9-4CED-49F0-B3B2-030A7FD5806A}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{C25B26A9-4CED-49F0-B3B2-030A7FD5806A}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B11D8DE9-F596-45BF-8E05-BB184C55D662}
+	EndGlobalSection
+EndGlobal
